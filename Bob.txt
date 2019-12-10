@@ -3,3 +3,5 @@ Hi!! this is the file inside of bob
 try add all
 
 Boby makes conflict
+
+master made changes on remote
