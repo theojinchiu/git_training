@@ -1,3 +1,6 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago
 
 this is the so called second line of the txt file.
+
+update alice 1
+update alice 2
